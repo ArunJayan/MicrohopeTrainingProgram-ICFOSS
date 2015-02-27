@@ -14,4 +14,6 @@ rm -rf microhope_3.3.2-1_i386.deb
 fi
 
 #Then we are going to install Qt4 
-sudo apt-get install qt4-designer
+sudo apt-get install qt4-designer gnome-human-icon-theme pyqt4-dev-tools
+
+
