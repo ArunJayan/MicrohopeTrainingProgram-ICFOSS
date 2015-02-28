@@ -1,0 +1,3 @@
+First you have to copy led_on_off.c to your microhope directory in your home (~/microhope) then open this program in microhope ide and compile it and upload hex to microhope hardware . 
+
+Then run the main.py
