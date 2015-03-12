@@ -12,4 +12,9 @@
 #########
 
 
+num1 = 300
+num2 = 230
 
+sum = num1+num2 #sum
+
+print "num1 + num2 = ",sum
