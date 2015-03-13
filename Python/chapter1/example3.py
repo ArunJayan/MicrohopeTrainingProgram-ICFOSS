@@ -8,4 +8,4 @@ num2 = input("Enter num2 :: ")
 print "%d + %d = %d"%(num1,num2,num1+num2)
 
 #we can do it single step 
-print ((input("Enter num1"))+input("Enter num2"))
+print ((input("Enter num1 :: "))+input("Enter num2 :: "))
